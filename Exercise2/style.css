@@ -62,7 +62,7 @@ a:active {
 
 #one{
 padding: 70px 50px;
-  border: 3px double green;
+  border: 4px double green;
   text-align: center;
    width: 50%;
     margin-left: 100px;
@@ -122,6 +122,7 @@ color:DodgerBlue;
   width:900px;
   font-size:18px;
   text-align:justify;
+
 }
  /* border-style:dashed;
   border-width:2px;
