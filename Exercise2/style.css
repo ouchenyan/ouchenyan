@@ -76,6 +76,33 @@ padding: 70px 50px;
 
 }
 
+#threecenter{
+padding: 70px 50px;
+  border: 4px double green;
+  text-align: center;
+   width: 50%;
+    margin-left: 100px;
+
+}
+
+#fourcenter{
+padding: 70px 50px;
+  border: 4px double green;
+  text-align: center;
+   width: 50%;
+    margin-left: 100px;
+
+}
+
+#fivecenter{
+padding: 70px 50px;
+  border: 4px double green;
+  text-align: center;
+   width: 50%;
+    margin-left: 100px;
+
+}
+
 #two{
   padding: 70px 50px;
   border: 4px double green;
