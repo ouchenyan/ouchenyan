@@ -110,6 +110,29 @@ padding: 70px 50px;
    width: 50%;
     margin-left: 100px;
 }
+
+
+#sixcenter{
+padding: 70px 50px;
+  border: 4px double green;
+  text-align: center;
+   width: 50%;
+    margin-left: 100px;
+
+}
+#sevencenter{
+padding: 70px 50px;
+  border: 4px double green;
+  text-align: center;
+   width: 50%;
+    margin-left: 100px;
+
+}
+
+
+
+
+
 img {
   display: block;
   margin-left: auto;
