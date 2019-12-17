@@ -2,8 +2,31 @@ body{
 	background-color:green;
     text-align:justify;
     color:white;
+
+    margin-right: 200px;
     text-align:center;
+
 	} 
 
 a:link {color:white;
 	 }	
+
+
+
+
+li{
+	font-weight:22px;
+	text-align:center;
+}
+
+a{
+  font-size:20px;
+  color: white;
+}
+
+
+a:hover {
+  color: yellow;
+   margin: auto;
+}
+
