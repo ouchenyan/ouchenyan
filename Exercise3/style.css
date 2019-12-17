@@ -1,0 +1,84 @@
+body {
+			margin: 0;
+			padding: 0;
+		}
+
+#top {
+		position: fixed;
+		right: 20px;
+		top: 5px;
+		font-size: 30px;
+		float: right;
+		}
+
+  a {
+	color: gray;
+	padding-left: 10px;
+	padding-right: 10px;
+	}
+
+	#main {
+			width: 100%;
+		
+			margin-top: 200px;
+		}
+
+
+
+		 #all{
+	     width:700px;
+         }
+
+
+		#search-bar {
+			width: 600px;
+			height: 40px;
+			border: 1px solid blue;
+			margin: 40px auto;
+			margin-left: 450px;
+		   }
+
+       #search {
+			width: 100px;
+			height: 38px;
+			border: 1px solid blue;
+			background-color:blue;
+			margin-left: 600px;
+			margin-top:;
+		    }
+
+
+		.picture {
+			width: 300px;
+			height:120px;
+			background: #cccccc;
+		    margin: 20px auto;
+            margin-top:50px;
+            border-top: :50px;
+		    left: 35px;
+
+		    }
+
+
+
+.smallpicture{
+             width: 80px;
+			height:80px;
+			background: #cccccc;
+		   margin: 20px auto;
+            margin-top:50px;
+            border-top: :30px;
+		   right:770px;
+		    bottom:70px;
+		     position: fixed;
+             }
+
+ #bottom{
+        position: fixed;
+		right:650px;
+		bottom:50px;
+		font-size: 30px;
+
+
+	 }
+	   
